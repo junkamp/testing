@@ -1,0 +1,5 @@
+Inicar proyecto: 
+npx cypress open
+
+Con npm:
+npm run cypress:open
